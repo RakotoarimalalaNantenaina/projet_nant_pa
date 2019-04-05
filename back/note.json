@@ -1,0 +1,22 @@
+[
+    {
+        "nom": "Nantenaina",
+        "Prenom": "Andrianavalona",
+        "image": "/assets/pa0.jpeg"
+    },
+    {
+        "nom": "Bruno",
+        "Prenom": "Rakoto",
+        "image": "/assets/test.jpeg"
+    },
+    {
+        "nom": "Noah",
+        "Prenom": "Anth",
+        "image": "/assets/pa4.jpeg"
+    },
+    {
+        "nom": "Andry",
+        "Prenom": "Noah",
+        "image": "/assets/pa3.jpeg"
+    }
+]
